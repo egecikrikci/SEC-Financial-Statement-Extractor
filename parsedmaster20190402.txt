@@ -1,0 +1,369 @@
+---------------------------------------------------------------------------
+RiceBran Technologies
+https://www.sec.gov/Archives/edgar/data/1063537/0001140361-19-006270.txt
+10-K
+---------------------------------------------------------------------------
+NORTHWEST BIOTHERAPEUTICS INC
+https://www.sec.gov/Archives/edgar/data/1072379/0001144204-19-017803.txt
+10-K
+---------------------------------------------------------------------------
+KINGOLD JEWELRY, INC.
+https://www.sec.gov/Archives/edgar/data/1089531/0001144204-19-017761.txt
+10-K
+---------------------------------------------------------------------------
+Riot Blockchain, Inc.
+https://www.sec.gov/Archives/edgar/data/1167419/0001079973-19-000197.txt
+10-K
+---------------------------------------------------------------------------
+GameStop Corp.
+https://www.sec.gov/Archives/edgar/data/1326380/0001326380-19-000052.txt
+10-K
+---------------------------------------------------------------------------
+Ulta Beauty, Inc.
+https://www.sec.gov/Archives/edgar/data/1403568/0001558370-19-002739.txt
+10-K
+---------------------------------------------------------------------------
+Pershing Gold Corp.
+https://www.sec.gov/Archives/edgar/data/1432196/0001144204-19-017788.txt
+10-K
+---------------------------------------------------------------------------
+Vera Bradley, Inc.
+https://www.sec.gov/Archives/edgar/data/1495320/0001495320-19-000010.txt
+10-K
+---------------------------------------------------------------------------
+Dave & Buster's Entertainment, Inc.
+https://www.sec.gov/Archives/edgar/data/1525769/0001193125-19-095746.txt
+10-K
+---------------------------------------------------------------------------
+VANJIA CORP
+https://www.sec.gov/Archives/edgar/data/1532383/0001017386-19-000079.txt
+10-K
+---------------------------------------------------------------------------
+NUTRALIFE BIOSCIENCES, INC
+https://www.sec.gov/Archives/edgar/data/1563463/0001477932-19-001394.txt
+10-K
+---------------------------------------------------------------------------
+Greenpro Capital Corp.
+https://www.sec.gov/Archives/edgar/data/1597846/0001493152-19-004719.txt
+10-K
+---------------------------------------------------------------------------
+Fortune Valley Treasures, Inc.
+https://www.sec.gov/Archives/edgar/data/1626745/0001493152-19-004678.txt
+10-K
+---------------------------------------------------------------------------
+Babcock & Wilcox Enterprises, Inc.
+https://www.sec.gov/Archives/edgar/data/1630805/0001630805-19-000020.txt
+10-K
+---------------------------------------------------------------------------
+Yuma Energy, Inc.
+https://www.sec.gov/Archives/edgar/data/1672326/0001654954-19-003967.txt
+10-K
+---------------------------------------------------------------------------
+FAH MAI HOLDINGS, INC.
+https://www.sec.gov/Archives/edgar/data/1681306/0001493152-19-004657.txt
+10-K
+---------------------------------------------------------------------------
+KROGER CO
+https://www.sec.gov/Archives/edgar/data/56873/0001558370-19-002756.txt
+10-K
+---------------------------------------------------------------------------
+LOWES COMPANIES INC
+https://www.sec.gov/Archives/edgar/data/60667/0000060667-19-000042.txt
+10-K
+---------------------------------------------------------------------------
+JUNIATA VALLEY FINANCIAL CORP
+https://www.sec.gov/Archives/edgar/data/714712/0001144204-19-017688.txt
+10-K
+---------------------------------------------------------------------------
+ROSS STORES INC
+https://www.sec.gov/Archives/edgar/data/745732/0000745732-19-000009.txt
+10-K
+---------------------------------------------------------------------------
+BIG LOTS INC
+https://www.sec.gov/Archives/edgar/data/768835/0000768835-19-000021.txt
+10-K
+---------------------------------------------------------------------------
+HST Global, Inc.
+https://www.sec.gov/Archives/edgar/data/797564/0001674796-19-000049.txt
+10-K
+---------------------------------------------------------------------------
+FOOT LOCKER, INC.
+https://www.sec.gov/Archives/edgar/data/850209/0001558370-19-002753.txt
+10-K
+---------------------------------------------------------------------------
+Jacksam Corp
+https://www.sec.gov/Archives/edgar/data/860543/0001477932-19-001403.txt
+10-K
+---------------------------------------------------------------------------
+BIOSPECIFICS TECHNOLOGIES CORP
+https://www.sec.gov/Archives/edgar/data/875622/0001140361-19-006323.txt
+10-K
+---------------------------------------------------------------------------
+SHOE CARNIVAL INC
+https://www.sec.gov/Archives/edgar/data/895447/0001564590-19-010585.txt
+10-K
+---------------------------------------------------------------------------
+Textmunication Holdings, Inc.
+https://www.sec.gov/Archives/edgar/data/897078/0001493152-19-004713.txt
+10-K
+---------------------------------------------------------------------------
+BioCardia, Inc.
+https://www.sec.gov/Archives/edgar/data/925741/0001437749-19-006300.txt
+10-K
+---------------------------------------------------------------------------
+NOVAGOLD RESOURCES INC
+https://www.sec.gov/Archives/edgar/data/1173420/0001171843-19-002186.txt
+10-Q
+---------------------------------------------------------------------------
+ANGIODYNAMICS INC
+https://www.sec.gov/Archives/edgar/data/1275187/0001275187-19-000014.txt
+10-Q
+---------------------------------------------------------------------------
+MCTC Holdings, Inc.
+https://www.sec.gov/Archives/edgar/data/1413488/0001017386-19-000081.txt
+10-Q
+---------------------------------------------------------------------------
+Corvus Gold Inc.
+https://www.sec.gov/Archives/edgar/data/1507964/0001171843-19-002175.txt
+10-Q
+---------------------------------------------------------------------------
+Walgreens Boots Alliance, Inc.
+https://www.sec.gov/Archives/edgar/data/1618921/0001618921-19-000017.txt
+10-Q
+---------------------------------------------------------------------------
+Lamb Weston Holdings, Inc.
+https://www.sec.gov/Archives/edgar/data/1679273/0001558370-19-002742.txt
+10-Q
+---------------------------------------------------------------------------
+CONAGRA BRANDS INC.
+https://www.sec.gov/Archives/edgar/data/23217/0000023217-19-000004.txt
+10-Q
+---------------------------------------------------------------------------
+DARDEN RESTAURANTS INC
+https://www.sec.gov/Archives/edgar/data/940944/0000940944-19-000013.txt
+10-Q
+---------------------------------------------------------------------------
+REGIONAL HEALTH PROPERTIES, INC
+https://www.sec.gov/Archives/edgar/data/1004724/0001564590-19-010589.txt
+NT 10-K
+---------------------------------------------------------------------------
+US ENERGY CORP
+https://www.sec.gov/Archives/edgar/data/101594/0001493152-19-004729.txt
+NT 10-K
+---------------------------------------------------------------------------
+DITECH HOLDING Corp
+https://www.sec.gov/Archives/edgar/data/1040719/0001040719-19-000004.txt
+NT 10-K
+---------------------------------------------------------------------------
+AGRITEK HOLDINGS, INC.
+https://www.sec.gov/Archives/edgar/data/1040850/0001554795-19-000085.txt
+NT 10-K
+---------------------------------------------------------------------------
+STRATA Skin Sciences, Inc.
+https://www.sec.gov/Archives/edgar/data/1051514/0001051514-19-000011.txt
+NT 10-K
+---------------------------------------------------------------------------
+EVOLVING SYSTEMS INC
+https://www.sec.gov/Archives/edgar/data/1052054/0001104659-19-019428.txt
+NT 10-K
+---------------------------------------------------------------------------
+RiceBran Technologies
+https://www.sec.gov/Archives/edgar/data/1063537/0001140361-19-006258.txt
+NT 10-K
+---------------------------------------------------------------------------
+Future FinTech Group Inc.
+https://www.sec.gov/Archives/edgar/data/1066923/0001213900-19-005553.txt
+NT 10-K
+---------------------------------------------------------------------------
+KINGSWAY FINANCIAL SERVICES INC
+https://www.sec.gov/Archives/edgar/data/1072627/0001072627-19-000030.txt
+NT 10-K
+---------------------------------------------------------------------------
+VIEW SYSTEMS INC
+https://www.sec.gov/Archives/edgar/data/1075857/0001493152-19-004740.txt
+NT 10-K
+---------------------------------------------------------------------------
+ICTV Brands Inc.
+https://www.sec.gov/Archives/edgar/data/1076522/0001493152-19-004709.txt
+NT 10-K
+---------------------------------------------------------------------------
+Dougherty's Pharmacy, Inc.
+https://www.sec.gov/Archives/edgar/data/1080029/0001683168-19-000935.txt
+NT 10-K
+---------------------------------------------------------------------------
+DropCar, Inc.
+https://www.sec.gov/Archives/edgar/data/1086745/0001654954-19-003979.txt
+NT 10-K
+---------------------------------------------------------------------------
+FINDEX COM INC
+https://www.sec.gov/Archives/edgar/data/1089061/0001089061-19-000011.txt
+NT 10-K
+---------------------------------------------------------------------------
+FOREVERGREEN WORLDWIDE CORP
+https://www.sec.gov/Archives/edgar/data/1091983/0001548123-19-000058.txt
+NT 10-K
+---------------------------------------------------------------------------
+REFLECT SCIENTIFIC INC
+https://www.sec.gov/Archives/edgar/data/1103090/0001548123-19-000059.txt
+NT 10-K
+---------------------------------------------------------------------------
+PCT LTD
+https://www.sec.gov/Archives/edgar/data/1119897/0001554795-19-000083.txt
+NT 10-K
+---------------------------------------------------------------------------
+POWER SOLUTIONS INTERNATIONAL, INC.
+https://www.sec.gov/Archives/edgar/data/1137091/0001137091-19-000009.txt
+NT 10-K
+---------------------------------------------------------------------------
+ADAMANT DRI PROCESSING & MINERALS GROUP
+https://www.sec.gov/Archives/edgar/data/1171008/0001493152-19-004680.txt
+NT 10-K
+---------------------------------------------------------------------------
+American BriVision (Holding) Corp
+https://www.sec.gov/Archives/edgar/data/1173313/0001213900-19-005579.txt
+NT 10-K
+---------------------------------------------------------------------------
+NF Energy Saving Corp
+https://www.sec.gov/Archives/edgar/data/1213660/0001213900-19-005601.txt
+NT 10-K
+---------------------------------------------------------------------------
+KONA GRILL INC
+https://www.sec.gov/Archives/edgar/data/1265572/0001437749-19-006414.txt
+NT 10-K
+---------------------------------------------------------------------------
+VIASPACE Inc.
+https://www.sec.gov/Archives/edgar/data/1270200/0001564590-19-010486.txt
+NT 10-K
+---------------------------------------------------------------------------
+Dolphin Entertainment, Inc.
+https://www.sec.gov/Archives/edgar/data/1282224/0001553350-19-000317.txt
+NT 10-K
+---------------------------------------------------------------------------
+MADISON AVE HOLDINGS INC
+https://www.sec.gov/Archives/edgar/data/1284196/0001437749-19-006297.txt
+NT 10-K
+---------------------------------------------------------------------------
+TWO RIVERS WATER & FARMING Co
+https://www.sec.gov/Archives/edgar/data/1302946/0001493152-19-004670.txt
+NT 10-K
+---------------------------------------------------------------------------
+Orchids Paper Products CO /DE
+https://www.sec.gov/Archives/edgar/data/1324189/0001144204-19-017583.txt
+NT 10-K
+---------------------------------------------------------------------------
+United Development Funding III, LP
+https://www.sec.gov/Archives/edgar/data/1335732/0001144204-19-017722.txt
+NT 10-K
+---------------------------------------------------------------------------
+Accelerize Inc.
+https://www.sec.gov/Archives/edgar/data/1352952/0001437749-19-006394.txt
+NT 10-K
+---------------------------------------------------------------------------
+THT Heat Transfer Technology, Inc.
+https://www.sec.gov/Archives/edgar/data/1375686/0001062993-19-001535.txt
+NT 10-K
+---------------------------------------------------------------------------
+IGEN NETWORKS CORP
+https://www.sec.gov/Archives/edgar/data/1393540/0001640334-19-000518.txt
+NT 10-K
+---------------------------------------------------------------------------
+WEED, INC.
+https://www.sec.gov/Archives/edgar/data/1393772/0001654954-19-003957.txt
+NT 10-K
+---------------------------------------------------------------------------
+Diversified Restaurant Holdings, Inc.
+https://www.sec.gov/Archives/edgar/data/1394156/0001394156-19-000017.txt
+NT 10-K
+---------------------------------------------------------------------------
+IMH Financial Corp
+https://www.sec.gov/Archives/edgar/data/1397403/0001397403-19-000010.txt
+NT 10-K
+---------------------------------------------------------------------------
+Generation Alpha, Inc.
+https://www.sec.gov/Archives/edgar/data/1398137/0001493152-19-004654.txt
+NT 10-K
+---------------------------------------------------------------------------
+GREENKRAFT, INC.
+https://www.sec.gov/Archives/edgar/data/1398529/0001511164-19-000050.txt
+NT 10-K
+---------------------------------------------------------------------------
+ELRAY RESOURCES, INC.
+https://www.sec.gov/Archives/edgar/data/1402371/0001477932-19-001390.txt
+NT 10-K
+---------------------------------------------------------------------------
+DSG Global Inc.
+https://www.sec.gov/Archives/edgar/data/1413909/0001493152-19-004720.txt
+NT 10-K
+---------------------------------------------------------------------------
+Friendable, Inc.
+https://www.sec.gov/Archives/edgar/data/1414043/0001654954-19-003900.txt
+NT 10-K
+---------------------------------------------------------------------------
+GreenBox POS
+https://www.sec.gov/Archives/edgar/data/1419275/0001185185-19-000491.txt
+NT 10-K
+---------------------------------------------------------------------------
+DLT Resolution Inc.
+https://www.sec.gov/Archives/edgar/data/1420368/0001477932-19-001410.txt
+NT 10-K
+---------------------------------------------------------------------------
+Inspyr Therapeutics, Inc.
+https://www.sec.gov/Archives/edgar/data/1421204/0001615774-19-005288.txt
+NT 10-K
+---------------------------------------------------------------------------
+Trutankless, Inc.
+https://www.sec.gov/Archives/edgar/data/1429393/0001393905-19-000108.txt
+NT 10-K
+---------------------------------------------------------------------------
+Bergio International, Inc.
+https://www.sec.gov/Archives/edgar/data/1431074/0001393905-19-000106.txt
+NT 10-K
+---------------------------------------------------------------------------
+SinglePoint Inc.
+https://www.sec.gov/Archives/edgar/data/1443611/0001477932-19-001371.txt
+NT 10-K
+---------------------------------------------------------------------------
+BioCorRx Inc.
+https://www.sec.gov/Archives/edgar/data/1443863/0001477932-19-001372.txt
+NT 10-K
+---------------------------------------------------------------------------
+Precision Therapeutics Inc.
+https://www.sec.gov/Archives/edgar/data/1446159/0001171843-19-002168.txt
+NT 10-K
+---------------------------------------------------------------------------
+MOBIVITY HOLDINGS CORP.
+https://www.sec.gov/Archives/edgar/data/1447380/0001445866-19-000348.txt
+NT 10-K
+---------------------------------------------------------------------------
+Sino Agro Food, Inc.
+https://www.sec.gov/Archives/edgar/data/1488419/0001144204-19-017510.txt
+NT 10-K
+---------------------------------------------------------------------------
+PROTECT PHARMACEUTICAL Corp
+https://www.sec.gov/Archives/edgar/data/1493526/0001493152-19-004682.txt
+NT 10-K
+---------------------------------------------------------------------------
+ONLINE DISRUPTIVE TECHNOLOGIES, INC.
+https://www.sec.gov/Archives/edgar/data/1498380/0001085037-19-000032.txt
+NT 10-K
+---------------------------------------------------------------------------
+FOOTHILLS EXPLORATION, INC.
+https://www.sec.gov/Archives/edgar/data/1503458/0001493152-19-004634.txt
+NT 10-K
+---------------------------------------------------------------------------
+GWG Holdings, Inc.
+https://www.sec.gov/Archives/edgar/data/1522690/0001213900-19-005632.txt
+NT 10-K
+---------------------------------------------------------------------------
+SOCIAL REALITY, Inc.
+https://www.sec.gov/Archives/edgar/data/1538217/0001553350-19-000322.txt
+NT 10-K
+---------------------------------------------------------------------------
+Quarta-Rad, Inc.
+https://www.sec.gov/Archives/edgar/data/1549631/0001493152-19-004638.txt
+NT 10-K
+---------------------------------------------------------------------------
+Sector 5, Inc.
+https://www.sec.gov/Archives/edgar/data/1550737/0001477932-19-001374.txt
+NT 10-K
+---------------------------------------------------------------------------
